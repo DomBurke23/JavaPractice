@@ -1,4 +1,5 @@
 import java.lang.StringBuilder;
+import java.util.Scanner;
 
 class dec_to_hex {
   private static final int sizeOfIntInHalfBytes = 8;
@@ -22,7 +23,9 @@ class dec_to_hex {
   }
 
   public static void main(String[] args) {
-     int dec = 305445566;
+	   System.out.println("Enter a decimal value (305445566) ");
+     Scanner input = new Scanner(System.in);
+	   int dec = input.nextInt(); 
      String hex = decToHex(dec);
      System.out.println(hex);       
   }
