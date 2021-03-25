@@ -8,3 +8,7 @@ This file calculates the total from values added to an ArrayList.
 - getting the size of the ArrayList 
 - for loop to order the ArrayList into ascending order.
 - User input to enter element into ArrayList. 
+
+Car 
+This file practices invoking constructors. 
+
