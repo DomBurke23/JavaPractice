@@ -24,6 +24,9 @@ This file takes a hexadecimal value entered by a user and prints out the decimal
 Lottery.java
 This file demonstrates the use of the java function Arrays.toString(). It is the simplest way to print an array as a string in Java. We demonstrate this with a predefined array and a user input array. 
 
+LuckyFive.java
+Thsi file uses the built in function Random() to generate a random number and if it does not match a specific value it will generate another random number inside a while loop.
+
 Noodle.java
 This file is demonstrating inheritance and Polymorphism. Inheritance saves us redefining the same class members all over again. Polymorphism allows a child class to share the information and behavior of its parent class while also incorporating its own functionality.
 Parent class, superclass, and base class refer to the class that another class inherits from (like Shape).
