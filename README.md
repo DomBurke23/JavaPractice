@@ -1,5 +1,8 @@
 # JavaPractice
 
+dec_to_hex.java 
+This file changes a decimal value to hexadecimal value. 
+
 CalculateTotal.java
 This file calculates the total from values added to an ArrayList. 
 - clearing an ArrayList 
@@ -9,6 +12,6 @@ This file calculates the total from values added to an ArrayList.
 - for loop to order the ArrayList into ascending order.
 - User input to enter element into ArrayList. 
 
-Car 
+Car.java 
 This file practices invoking constructors. 
 
