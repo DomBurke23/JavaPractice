@@ -18,6 +18,9 @@ This file calculates the total from values added to an ArrayList.
 Car.java 
 This file practices invoking constructors. 
 
+hex_to_dec.java
+This file takes a hexadecimal value entered by a user and prints out the decimal value of that value. 
+
 Noodle.java
 This file is demonstrating inheritance and Polymorphism. Inheritance saves us redefining the same class members all over again. Polymorphism allows a child class to share the information and behavior of its parent class while also incorporating its own functionality.
 Parent class, superclass, and base class refer to the class that another class inherits from (like Shape).
