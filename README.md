@@ -3,6 +3,9 @@
 dec_to_hex.java 
 This file changes a decimal value to hexadecimal value. 
 
+Dog.java
+This file is demonstrating the use of invoking constructors. 
+
 CalculateTotal.java
 This file calculates the total from values added to an ArrayList. 
 - clearing an ArrayList 
