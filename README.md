@@ -15,3 +15,22 @@ This file calculates the total from values added to an ArrayList.
 Car.java 
 This file practices invoking constructors. 
 
+Noodle.java
+This file is demonstrating inheritance and Polymorphism. Inheritance saves us redefining the same class members all over again. Polymorphism allows a child class to share the information and behavior of its parent class while also incorporating its own functionality.
+Parent class, superclass, and base class refer to the class that another class inherits from (like Shape).
+Child class, subclass, and derived class refer to a class that inherits from another class (like Triangle). 
+I have demonstrated:
+- Inheritance
+- Parent Class Aspect Modifiers
+- Polymorphism 
+- Method Overriding
+- Using a Child Class as its Parent Class
+- Child Classes in Arrays and ArrayLists. 
+- Child Classes in Method Parameters
+This is our parent class which calls the following child classes:
+- Spaghetti.java
+- Ramen.java
+- Spaetzle.java
+- Dinner.java 
+- Pho.java 
+- NoodleRestaurant.java 
