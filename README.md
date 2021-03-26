@@ -65,6 +65,9 @@ This file is invoking constructors with parameters and using if checks to return
 SavingsAccount.java
 This file demonstrates the use of methods. Methods can take input, do something with it, and return the kind of output we want. Procedural abstraction: knowing what a method does, but not how it accomplishes it.
 
+Shopping.java
+This file is using two arrays, altering one and printing both out. 
+
 Store.java
 This file demonstrates the use of methods and parameters. 
 
