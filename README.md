@@ -50,6 +50,12 @@ This is our parent class which calls the following child classes:
 Reservation.java
 This file is invoking constructors with parameters and using if checks to return a print statement depending on the argument passed. 
 
+SavingsAccount.java
+This file demonstrates the use of methods. Methods can take input, do something with it, and return the kind of output we want. Procedural abstraction: knowing what a method does, but not how it accomplishes it.
+
+Store.java
+This file demonstrates the use of methods and parameters. 
+
 ToDos.java
 This file demonstrates different String manipulation functions. A String, which is widely used in Java, is an object that represents a sequence of characters. It is a great way to store information.
 Functions used:
