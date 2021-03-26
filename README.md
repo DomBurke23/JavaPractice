@@ -25,7 +25,16 @@ Lottery.java
 This file demonstrates the use of the java function Arrays.toString(). It is the simplest way to print an array as a string in Java. We demonstrate this with a predefined array and a user input array. 
 
 LuckyFive.java
-Thsi file uses the built in function Random() to generate a random number and if it does not match a specific value it will generate another random number inside a while loop.
+This file uses the built in function Random() to generate a random number and if it does not match a specific value it will generate another random number inside a while loop.
+
+Newsfeed.java
+This file is based around arrays.
+
+Newsfeed2.java
+This file is based around arrays and using the String[] args parameter in the main method to take user input from the command line. 
+ * when running this file in the command line do 
+ * javac Newsfeed2.java 
+ * java Newsfeed2 Robot
 
 Noodle.java
 This file is demonstrating inheritance and Polymorphism. Inheritance saves us redefining the same class members all over again. Polymorphism allows a child class to share the information and behavior of its parent class while also incorporating its own functionality.
