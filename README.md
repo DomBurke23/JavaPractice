@@ -49,3 +49,14 @@ This is our parent class which calls the following child classes:
 
 Reservation.java
 This file is invoking constructors with parameters and using if checks to return a print statement depending on the argument passed. 
+
+ToDos.java
+This file demonstrates different String manipulation functions. A String, which is widely used in Java, is an object that represents a sequence of characters. It is a great way to store information.
+Functions used:
+- length()
+- concat()
+- equals()
+- indexOf()
+- charAt()
+- substring()
+- toUpperCase() / toLowerCase()
